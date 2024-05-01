@@ -18,7 +18,7 @@ The problems are described on the Project Euler website, in the *Archives* secti
 
 ## Progress
 
-**Current Milestone**: Solve the first 10 problems.
+**Current Milestone** (2024-05-01): Solve the first 10 problems.
 
 * [X] Problem #1 - Multiples of 3 and 5
 * [ ] Problem #2 - Even Fibonacci numbers
