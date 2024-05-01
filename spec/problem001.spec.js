@@ -8,4 +8,12 @@ describe("Problem #1 Tests (Multiples of 3 or 5)", () => {
 
     expect(actualType).toBe(expectedType);
   });
+
+  it("should return the correct answer", () => {
+    const expectedAnswer = 543;
+
+    const actualAnswer = multiplesOf3and5(49);
+
+    expect(actualAnswer).toEqual(expectedAnswer);
+  });
 });
