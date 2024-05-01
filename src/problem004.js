@@ -19,6 +19,7 @@ function largestPalindromeProduct(n) {
             // Is the product a palindromic number?
             let productString = product.toString();
             let count = 0;
+            // DEBUG: Logic error in for-loop.
             for (let k = 0; k < productString.length; k++) {
                 if (productString[k] == productString[productString.length - (k + 1)]) {
                     count++;
