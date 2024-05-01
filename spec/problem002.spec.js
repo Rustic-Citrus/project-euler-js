@@ -1,6 +1,6 @@
 import { fibonacciEvenSum } from "../src/problem002.js";
 
-describe("Problem #1 Tests (Even Fibonacci Numbers),", () => {
+describe("Problem #2 Tests (Even Fibonacci Numbers),", () => {
   it("should return a number", () => {
     const expectedType = "number";
 
