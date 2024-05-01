@@ -22,7 +22,7 @@ The problems are described on the Project Euler website, in the *Archives* secti
 
 * [X] Problem #1 - Multiples of 3 and 5
 * [X] Problem #2 - Even Fibonacci numbers
-* [ ] Problem #3 - Largest prime factor
+* [X] Problem #3 - Largest prime factor
 * [ ] Problem #4 - Largest palindrome product
 * [ ] Problem #5 - Smallest multiple
 * [ ] Problem #6 - Sum square difference
